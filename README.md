@@ -49,4 +49,8 @@ https://github.com/user-attachments/assets/f86daddf-315c-4173-b5a0-b887028d0149
 -MVVM Architecture: Clean architecture pattern that promotes testability and separation of concerns.
 
 ## communication
-For more information, contact me through email: kha;lilhamdy744@gmail.com or through LinkedIn: linkedin.com/in/khalil-hamdy-4b1658209
+For more information, feel free to reach out:
+
+-Email: khalilhamdy744@gmail.com
+
+-LinkedIn: linkedin.com/in/khalil-hamdy-4b1658209
