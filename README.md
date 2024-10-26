@@ -53,4 +53,4 @@ For more information, feel free to reach out:
 
 -Email: khalilhamdy744@gmail.com
 
--LinkedIn: linkedin.com/in/khalil-hamdy-4b1658209
+-LinkedIn: https://www.linkedin.com/in/khalil-hamdy-4b1658209?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNx%2BGL8%2F1TZSFGhd24xXoyw%3D%3D
