@@ -1,6 +1,19 @@
 # HC-APP!
 
 HC is revolutionizing the shopping experience for today’s busy, style-savvy women. As a leading digital marketplace, we connect customers to top fashion brands, beauty services, and inspiration, all within one intuitive shopping and discovery app.
+## Key Features of the HC App:
+
+-Comprehensive Shopping: Access the latest global fashion brands with curated categories that cater to all tastes.
+
+-Premium Beauty Services: Discover and book beauty services from top providers in your area with ease.
+
+-Daily Inspiration: Enjoy inspiring content including fashion tips, trends, and expert beauty looks.
+
+-Personalized Experience: Receive tailored recommendations based on user interests and search history for a more unique shopping journey.
+
+-User-Friendly Interface: Simple, intuitive design allowing users to explore products and services quickly and efficiently.
+
+-Exclusive Deals and Discounts: Real-time notifications for exclusive deals and discounts from top brands.
 
 
 <div style="display: flex; justify-content: space-around;">
