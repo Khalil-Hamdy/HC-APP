@@ -1,5 +1,8 @@
 # HC-APP!
 
+HC is revolutionizing the shopping experience for today’s busy, style-savvy women. As a leading digital marketplace, we connect customers to top fashion brands, beauty services, and inspiration, all within one intuitive shopping and discovery app.
+
+
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/user-attachments/assets/3484bd85-9419-4d2f-91c0-1e32623c99be" alt="Splash screen1" width="200"/>
   <img src="https://github.com/user-attachments/assets/96907212-b9b9-4b74-8064-dfbcb63c2428" alt="Image 3" width="200"/>
