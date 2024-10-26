@@ -30,5 +30,23 @@ HC is revolutionizing the shopping experience for today’s busy, style-savvy wo
 
 ## Explanatory video
 
-
 https://github.com/user-attachments/assets/f86daddf-315c-4173-b5a0-b887028d0149
+
+## Technologies Used in the HC App:
+
+-Kotlin: Main programming language for Android development, ensuring smooth and efficient performance.
+
+-Retrofit & OkHttp: For efficient API calls and handling network requests seamlessly.
+
+-Room Database: Local database solution for offline data storage and fast data retrieval.
+
+-Hilt (Dagger): Dependency injection library to improve app modularity and scalability.
+
+-Firebase Services: Authentication, real-time database, and push notifications to enhance user experience and engagement.
+
+-Coil: Image loading library optimized for Kotlin, enabling fast and smooth image rendering.
+
+-MVVM Architecture: Clean architecture pattern that promotes testability and separation of concerns.
+
+## communication
+For more information, contact me through email: kha;lilhamdy744@gmail.com or through LinkedIn: linkedin.com/in/khalil-hamdy-4b1658209
